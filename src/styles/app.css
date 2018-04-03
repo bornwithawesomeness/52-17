@@ -1,0 +1,59 @@
+html, body {
+  height: 100%;
+  overflow: hidden;
+  background: -webkit-linear-gradient(#000428, #004e92);
+  color: white;
+}
+
+.btncontainer {
+    float:right
+}
+.fix-height{
+  height: 200px
+}
+.searchInput{
+  width: 400px
+}
+
+.cont-100 {
+  height: 100%;
+}
+
+.time-cont {
+  font-size: 150px;
+  top: 20%;
+  text-align: center;
+  align-self: center;
+}
+
+.btn {
+  margin: 15px;
+  cursor: pointer;
+  color: black;
+}
+
+.break-msg-cont {
+  /*background: -webkit-linear-gradient(#02AAB0, #00CDAC);*/
+}
+
+.settings {
+  padding: 20px;
+  cursor: pointer;
+}
+
+.content, .codrops-header {
+  height: 100%;
+  display: flex;
+}
+
+.profile > img {
+  width: 42px;
+}
+
+.menu-side > .form-group {
+  padding: 0 15px 0 15px;
+}
+
+.content-wrap {
+  overflow: hidden;
+}
